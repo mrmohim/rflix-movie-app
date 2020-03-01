@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "708071824943",
+    "firebase_url": "https://rflix-a52c5.firebaseio.com",
+    "project_id": "rflix-a52c5",
+    "storage_bucket": "rflix-a52c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708071824943:android:a76e2273fcdd8dabb2b0da",
+        "android_client_info": {
+          "package_name": "com.example.rflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708071824943-5jgj4dnulgrhv12bigsp1t16t5bkjccq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rflix",
+            "certificate_hash": "1843b893206994f22bbe25200475704d5adf4074"
+          }
+        },
+        {
+          "client_id": "708071824943-3m4b2v565i7h6stvm0gv4n62qlp4fha3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNdh0mZRO2Mw_HdyYSnEHPL8ZLoQQqyS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708071824943-3m4b2v565i7h6stvm0gv4n62qlp4fha3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

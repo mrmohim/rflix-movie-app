@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#008577</color>-->
+<!--    <color name="colorPrimaryDark">#00574B</color>    -->
+    <color name="colorPrimary">#ED1C24</color>
+    <color name="colorPrimaryDark">#BD161C</color>
+    <color name="colorAccent">#D41920</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="appBackground">#f2f2f7</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="white75">#BFFFFFFF</color>
+    <color name="white25">#40FFFFFF</color>
+    <color name="white20">#33FFFFFF</color>
+    <color name="white60">#99FFFFFF</color>
+    <color name="lightBrown">#C68F71</color>
+    <color name="brown">#5c5754</color>
+    <color name="gray">#616771</color>
+    <color name="pickerColor">#D7AB92</color>
+    <color name="mint">#85d9d5</color>
+    <color name="lightOrange">#EAB9A0</color>
+    <color name="red">#FF0000</color>
+    <color name="goodFine">#33b5e5</color>
+    <color name="normalFine">#00C851</color>
+    <color name="badFine">#ffbb33</color>
+    <color name="worstFine">#FF4444</color>
+</resources>

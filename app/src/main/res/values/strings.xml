@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">rflix</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_favourite">Favourite</string>
+    <string name="title_watchlist">Watchlist</string>
+    <string name="title_profile">Profile</string>
+    <string name="now_playing_movies">Now Playing Movies</string>
+    <string name="most_popular_movies">Most Popular Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="search">Search</string>
+    <string name="similar_string">You may also like</string>
+    <string name="drawerOpen">Open</string>
+    <string name="drawerClose">Close</string>
+    <string name="back_str"><![CDATA[<< Back]]></string>
+
+    <string-array name="query_suggestions">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>SCALA</item>
+        <item>Ruby</item>
+        <item>JavaScript</item>
+    </string-array>
+</resources>
